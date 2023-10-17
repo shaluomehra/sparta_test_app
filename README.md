@@ -1,4 +1,4 @@
-##hello 2 Sparta Node Sample App
+##hello. 2 Sparta Node Sample App
 
 ## Description
 
